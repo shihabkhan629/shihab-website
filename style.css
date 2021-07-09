@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    background-image: url(images/photo/khan.jpeg); 
+}
+nav li{
+    list-style: none;
+    color: rgb(2, 35, 44);
+    margin-right: 20px;
+}
+nav ul{
+    display: flex;
+}
+nav li:hover{
+    color: rgb(209, 180, 106);
+    background-color: rgb(40, 41, 34);
+    padding: 0 10px;
+}
+.color1{
+    font-size: 30px;
+     text-align: center;
+     color: darkturquoise;
+     background-color: dimgray;
+}
+.color2{
+    color: rgb(68, 71, 67);
+    width: 50%;
+}
+.color2 img{
+    width: 100%;
+}
+span{
+    color: gold;
+}
+#id1{
+    color: greenyellow;
+}
+#id2{
+    color: black;
+}
+section{
+    display: flex;
+    background-color: darkgray;
+}
+.color3{
+    text-decoration: coral;
+    background-image: linear-gradient(tomato,rgb(194, 140, 41));
+    padding: 5px 30px;
+    color: rgb(20, 122, 122);
+    font-weight: 600;
+    border-radius: 25px;
+}
+.color3:hover{
+    color: rgb(115, 255, 0);
+}
+.color4{
+    display: flex;
+    background-color: darkkhaki;
+    margin-top: 30px;
+}
+.color5{
+    display: flex;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 35px;
+}
+.color5 li{
+    color: rgb(5, 51, 53);
+}
+.color6{
+    margin-top: 30px;
+}
+.color5:hover{
+    color: olive;
+}
+.color7:hover{
+    color: rgb(130, 241, 2);
+}
+.color8{
+    font-size: 20px;
+}
+.color9{
+    font-size: 20px;
+    color: rgb(235, 215, 195);
+}
+.color10{
+    font-size: 15px;
+    color: chartreuse;
+}
+.color11{
+    font-size: 15px;
+    color: chartreuse;
+}
+.color12{
+    background-color: cadetblue;
+}
+legend{
+    color: darkturquoise;
+}
+legend:hover{
+    color: rgb(252, 182, 5);
+}
+.color13{
+    display: flex;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+}
+.color13 img{
+    width: 70px;
+}
+.color14{
+    padding: 10px;
+    margin-top: 10px;
+}
+button{
+    color: orangered;
+    font-size: 15px;
+}
+button:hover{
+    color: rgb(255, 255, 7);
+}
+.color15{
+    width: 400px;
+    height: 300px;
+    background-color: deepskyblue;
+    margin: 50px;
+    padding: 20px;
+    margin-top: 100px;
+    font-size: 11px;
+}
+.color16{
+    display: flex;
+}
